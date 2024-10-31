@@ -1,4 +1,4 @@
-# Boundary-Graph
+# Next-Graph
 
 ## Requirements
 
